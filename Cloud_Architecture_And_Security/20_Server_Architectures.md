@@ -45,3 +45,26 @@ Load balancing across individual requests is made possible / easy.
 - Vertical Scaling: Upgrading existing server resources
 - Optimization Techniques: Caching, Compression, using efficient algorithms
 
+#### Limitations of Traditional Servers
+
+- **Physical Space**: required dedicated space, power, and cooling.
+- **Scalability**: Difficult and time consuming to scale up or down.
+- **Single point of failure**
+- **Maintenance Overhead**: Required ongoing management and updates.
+- **Cost Inefficiency**: High upfront costs and ongoing expenses.
+
+#### Modern Solutions
+
+- Scalable, flexible, on-demand cloud resources
+- Containers: lightweight, portable environments for apps
+- Pre-built cloud solutions for dbs, storage and networking
+- Serverless
+- Kubernetes
+
+#### Cloud Applications in Finance and Databases
+
+- Streamline financial modeling and risk analysis using scalable cloud resources
+- Disaster Recovery and Data Backup
+- Scalable, high-performance trading platforms
+- Cloud-based DBs for real-time transaction processing and analytics
+- AI/ML for fraud detection and prevention
