@@ -47,7 +47,7 @@ It is mainly carried out by universities.
 
 ##### Uses of Descriptive Research
 
-- To describe the characteristics of releand groups, such as consumers, salespeople, organizations, or market areas.
+- To describe the characteristics of relevant groups, such as consumers, salespeople, organizations, or market areas.
 - To estimate the percentage of units in a specifies population exhibiting a certain behavior.
 - To determine the perceptions of products characteristics.
 - To determine the degree to which marketing variables are associated.
@@ -91,7 +91,7 @@ It involves coming up with conclusions which are capable of being verified by ob
 
 ##### Difference between **Qualitative** and **Quantitative** Research
 
-| Qualitative                                                          | Qualtitative                                                              |
+| Qualitative                                                          | Quantitative                                                              |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | Explains attitudes and behaviors of the market in detail.            | ideal for discovering who, what, when and, where.                         |
 | Generates verbal information to understand opinions and motivations. | Generates numerical data to get effective statistics.                     |
