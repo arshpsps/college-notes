@@ -45,10 +45,28 @@ also called chasis
 
 ###### Benefits:
 
-- Copper cabled stay in rack.
+- Simplified Cabling
 - Reduced cabling costs per rack.
 - modular and flexible per rack architecture.
 - future proofing for higher speeds.
+
+###### Cons:
+
+- Potential Network Bottlenecks
+- Limited Scalability
+
+##### End of Rack (EoR)
+
+###### Pros
+
+- Improved Scalability & Performance
+- Distributed Network Architecture
+- Reduced Congestion
+
+###### Cons
+
+- Increased cabling complexity
+- higher initial costs
 
 #### [Datacenter](https://www.youtube.com/watch?v=ukBPwRluwSQ&t=65s)
 
